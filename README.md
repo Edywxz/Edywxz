@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Fluente em Inglês com certificado C1<br>📚 Cursando Desenvolvimento de Sistemas<br>🎯 Quero trabalhar na área de Analise de Dados<br>🎲 Falo inglês e mexo em computadores desde os meus 6 anos de idade</p>
+<p align="left">✨ Fluente em Inglês com certificado C1 {Avançado} <br>📚 Técnico de Analise e Desenvolvimento de Sistemas<br> 🎲 Falo inglês e mexo em computadores desde os meus 6 anos de idade</p>
 
 ###
 
