@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Me chamo Edy Carlos, tenho 18 anos e moro em SP. Sou estudante do ensino médio cursando Desenvolvimento de Sistemas. Estou estudando e tenho conhecimento em Front-End, Back-End, UX/UI, e SQL.</p>
+<p align="left">Me chamo Edy Carlos, tenho 18 anos e moro em SP. Sou tecnico de ADS e atualmente curso Desenvolvimento de Software Multiplataforma. Tenho conhecimento em Front-End, Back-End e SQL.</p>
 
 ###
 
