@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Me chamo Edy Carlos, tenho 18 anos e moro em SP. Sou tecnico de ADS e atualmente curso Desenvolvimento de Software Multiplataforma. Tenho conhecimento em Front-End, Back-End e SQL.</p>
+<p align="left">Me chamo Edy Carlos, tenho 19 anos e moro em SP. Sou tecnico de ADS e atualmente curso Desenvolvimento de Software Multiplataforma. Tenho conhecimento em Front-End, Back-End e SQL.</p>
 
 ###
 
